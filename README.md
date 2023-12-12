@@ -1,5 +1,5 @@
 # richape-landing-page
-Work in progress
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
@@ -11,6 +11,29 @@ I have recently completed the Level 6 Certificate in Applied Web Development thr
 
 ## Projects
 - [My Blog](https://richape.github.io/index.html): This is my first project I worked on as part of the Foundations of learning Web Development using html & CSS,
-- [Project 2](link-to-project-2): Short description of project 2.
-- [Project 2](link-to-project-2): Short description of project 2.
-- [Project 2](link-to-project-2): Short description of project 2.
+- [To do list](https://github.com/richape/Todo-List): This is a Todo list app that I did a code along to before Foundations using React.
+- [Matrix Effect](https://github.com/richape/matrix-effect): This is a project that I have been playing around with in between study. Trying to build the Matrix effect using html, CSS and Javascript. Work in progress.
+- I have a couple personal projects I have not started yet.
+- One is a book a desk app for our work space where graduates who wish to come in to do some extra study or job hunting prep. Users will be able to book a desk on a certain date or dates and also at what time.
+- Another is a Human Skills reflection app for mobile and desktop, because Google forms is difficult to work with. Students will be able to create a log in and the app will include assessments and text area to complete reflections. I want to be able to implement some kind of notification for students as well, reflections will be saved and should be editable.
+- [My Comics](Add link to project): Link will be added.
+
+## Skills
+## Tech
+- Programming Languages: JavaScript, node.js, Express.js, React.js, TypeScript
+- Web Development: HTML, CSS, React
+- Database: SQLite3, knex.js
+- Command Line Basics and GitFlow
+
+## Human Skills - Soft Skills
+- Building Trust and Empathy within Teams,
+- Giving and Receiving Feedback: Using the ASK framework - Actionable, Specific & Kind,
+- Navigating Difficult Conversations: Using the NVC framework - Non-violent Communication,
+- Oranga / Well-being: Using the Māori Health Framework created by Tā Mason Durie, Te Whare Tapa Whā. Creating and implementing a holistic and well balanced well-being plan while studying,
+- Creating Conflict Resolution Plan for our Final Group Project,
+- Peer work and Team work,
+- Working remotely,
+
+## Contact
+- Email: richard.hape@devacademy.co.nz
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/richard-hape-05477363/)
