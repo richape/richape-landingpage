@@ -19,13 +19,13 @@ I have recently completed the Level 6 Certificate in Applied Web Development thr
 - [My Comics](Add link to project): Link will be added.
 
 ## Skills
-## Tech
+### Tech
 - Programming Languages: JavaScript, node.js, Express.js, React.js, TypeScript
 - Web Development: HTML, CSS, React
 - Database: SQLite3, knex.js
 - Command Line Basics and GitFlow
 
-## Human Skills - Soft Skills
+### Human Skills - Soft Skills
 - Building Trust and Empathy within Teams,
 - Giving and Receiving Feedback: Using the ASK framework - Actionable, Specific & Kind,
 - Navigating Difficult Conversations: Using the NVC framework - Non-violent Communication,
