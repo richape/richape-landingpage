@@ -1,1 +1,1 @@
-# richape-landingpage
+# richape-landing-page
