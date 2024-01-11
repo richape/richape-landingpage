@@ -1,4 +1,4 @@
-# richape-landing-page
+# richape
 
 ## Table of Contents
 - [Introduction](#introduction)
